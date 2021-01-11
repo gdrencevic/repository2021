@@ -93,3 +93,5 @@ components:
         - Pets
       items:
         $ref: ./models/pet.v1.yaml
+      x-examples:
+        example-1: {}
